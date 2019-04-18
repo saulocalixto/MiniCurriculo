@@ -1,0 +1,38 @@
+body {
+    max-width: 1000px;
+    padding: 1%;
+    margin: 10px;
+    display: block;
+    background: black;
+    color: papayawhip;
+}
+
+.wrapConteudo {
+    float: right;
+    display: inline-block;
+}
+
+img {
+    display: inline;
+    width: 33%;
+    float: left;
+}
+
+.wrapTopico {
+    padding-left: 35%;
+    padding-top: 0.6%;
+    text-justify: justify;
+}
+
+.topico {
+    font-weight: bold;
+    font-size: 17pt;
+}
+
+.conteudoTopico {
+    font-size: 14pt;
+}
+
+a {
+  color: hotpink;
+}
